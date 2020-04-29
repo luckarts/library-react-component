@@ -37,8 +37,8 @@
 		"format": "prettier --write \"**/*.+(js|md|ts|html|css|sass|less|graphql|yml|yaml|scss|json|vue)\"",
 		"precommit": "lint-staged",
 		"storybook": "start-storybook -p 6006",
-		"predeploy": "build-storybook",
-		"deploy": "gh-pages build-storybook"
+		"predeploy": "build-storybook -s public",
+		"deploy": "gh-pages build-storybook -s public"
 	},
 	"dependencies": {
 		"gh-pages": "^2.2.0",
