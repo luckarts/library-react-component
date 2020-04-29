@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Galerie Component with children props renders an img without a src attribute 1`] = `
+<img
+  alt="study_color2"
+  src="https://bachelart.fr/img/study_color2.jpg"
+/>
+`;
+
+exports[`with additional properties passes them to the img element 1`] = `
+<img
+  alt="study_color2"
+  src="https://bachelart.fr/img/study_color2.jpg"
+/>
+`;

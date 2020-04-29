@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should show updated window widt  passes them to the img element 2 1`] = `
+<span>
+  340
+</span>
+`;
+
+exports[`should show updated window width passes them to the img element 1`] = `
+<span>
+  1024
+</span>
+`;

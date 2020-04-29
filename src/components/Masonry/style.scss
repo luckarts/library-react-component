@@ -1,0 +1,12 @@
+.component-masonry {
+
+    text-align: center;
+
+    &>div>div {
+
+        background-color: #488aff;
+        margin: 10px 5px;
+        padding: 50px;
+
+    }
+}
