@@ -2,6 +2,7 @@
 	"name": "lucky-react-component",
 	"version": "1.1.2",
 	"description": "lucky-react-components React component",
+	"homepage":"https://luckarts.github.io/library-react-component/?path=/story/lazyimage--image",
 	"main": "lib/index.js",
 	"module": "es/index.js",
 	"files": [
